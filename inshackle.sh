@@ -1,6 +1,6 @@
 C #!/bin/bash
-# Inshackle v1.0
-# recoded by: R34l-h4ck3r
+# Insta_follower v1.0
+# coded by: R34l-h4ck3r
 # github.com/R34l-h4ck3r/inshackle-bot
 # If you use any part from this code, give me the credits, please, read the License
 
